@@ -1,8 +1,12 @@
+/* RESET */
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+/* HEADER STYLE */
 
 .header{
     display: flex;
@@ -20,6 +24,8 @@
     animation: glow 1.5s infinite alternate;
 }
 
+/* LIVE ANIMATION */
+
 @keyframes glow {
     0% {
         text-shadow: 0 0 5px #020024, 0 0 10px #020024, 0 0 20px #020024, 0 0 40px #020024, 0 0 80px #020024;
@@ -28,6 +34,8 @@
         text-shadow: 0 0 10px #00d4ff, 0 0 20px #00d4ff, 0 0 40px #00d4ff, 0 0 80px #00d4ff, 0 0 160px #00d4ff;
     }
 }
+
+/* BOXS STYLE */
 
 .container{
     display: grid;
@@ -118,6 +126,8 @@
     border-bottom: 1px solid gray;
 }
 
+/* FOOTER STYLE */
+
 .footer{
     display: flex;
     justify-content: center;
@@ -132,6 +142,8 @@
     color: white;
     margin-bottom: 50px;
 }
+
+/* RESPONSIVE */
 
 @media (max-width:615.98px){
     .container{

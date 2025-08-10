@@ -1,3 +1,5 @@
+/* DATA */
+
 const txtareaEL = document.querySelector('.txt');
 
 const numOfwords = document.querySelector('.word-number');
@@ -5,6 +7,8 @@ const numOfwords = document.querySelector('.word-number');
 const numOftwitter = document.querySelector('.twitter-number');
 
 const numOffacebook = document.querySelector('.facebook-number');
+
+/* FUNCTIONS */
 
 txtareaEL.addEventListener('input' , function(){
     const numOfcaracters = txtareaEL.value.length;
