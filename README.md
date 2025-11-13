@@ -1,17 +1,28 @@
-# WordCounter
+### 📝 WordCounter
 
-یک ابزار ساده برای **شمارش کلمات و کاراکترها** درون یک متن، ساخته شده با **HTML**، **CSS** و **JavaScript**.  
-مناسب برای تمرین تعامل با کاربران و طراحی صفحات وب کاربردی.
-
----
-
-# ویژگی‌ها
-- شمارش تعداد کلمات و کاراکترها
-- رابط کاربری ساده و شفاف
-- بدون نیاز به سرور — کاملاً سمت کلاینت (Browser-side)
-- یادگیری خوبی برای شروع با DOM و JS
+A simple and efficient web application that counts **words**, **characters**, and **sentences** instantly as you type.  
+Perfect for writers, developers, and students who want to track their text statistics in real-time.
 
 ---
 
-# شروع
-جهت استارت پروژه رو کلون کنید.
+### 🚀 Features
+- ⚡ Real-time word and character counting  
+- ✍️ Live text area with instant updates  
+- 📊 Displays total sentences and paragraphs  
+- 📱 Fully responsive design  
+- 🎨 Clean and minimal UI  
+
+---
+
+### 🖼️ Screenshot
+<p align="center">
+  <img src="./img/test.png" width="60%" alt="WordCounter Screenshot"/>
+</p>
+
+---
+
+### ⚙️ Installation & Run
+
+```bash
+git clone https://github.com/VibelessYoung/WordCounter.git
+cd WordCounter
