@@ -16,7 +16,7 @@ Perfect for writers, developers, and students who want to track their text stati
 
 ### 🖼️ Screenshot
 <p align="center">
-  <img src="./img/test.png" width="60%" alt="WordCounter Screenshot"/>
+  <img src="./img/test.png" alt="WordCounter Screenshot"/>
 </p>
 
 ---
